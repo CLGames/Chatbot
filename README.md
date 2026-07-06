@@ -6,7 +6,7 @@ This is my intuitive approach to making a chatbot. This is a relatively simple c
 
 # The Dataset
 
-The key part of this program is the dataset which is a text file containing many conversation pairs. Each pair contains a message and a response to that message. The dataset is a collection of data that I have collected online from various sources which includes public chat logs and movie dialogue.
+The backbone of this program is the dataset which is a text file containing many conversation pairs. Each pair contains a message and a response to that message. The dataset is a collection of data that I have collected online from various sources which includes public chat logs and movie dialogue.
 
 These pairs are stored in the text file in the format:
 
